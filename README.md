@@ -1,4 +1,4 @@
-# [Guide] How to Downgrade Apps on AppStore with iTunes 12.6.5 & Charles Proxy (no Jailbreak).
+# [Guide] How to Downgrade Sonos S2 app to 16.1 on AppStore with iTunes 12.6.5 & Charles Proxy (no Jailbreak).
 
 _If you think this guide is useful, considering support me via [Paypal](https://www.paypal.com/paypalme/qnblackcat) <img src="https://img.shields.io/badge/-lightgrey?style=social&logo=paypal" alt="Badge">!_
 
